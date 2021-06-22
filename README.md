@@ -1,3 +1,3 @@
-# react-ovtu69
+# React Multi Step Form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ovtu69)
+[Link to the App ⚡️](https://waqas-multi-step-form.netlify.app)
